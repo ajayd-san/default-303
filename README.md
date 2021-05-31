@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on python and java projects
 - 📫 How to reach me - turingman@protonmail.com
 - 🤖 The cool side project I'm working on - https://ytconvertify.herokuapp.com
-- 👻 I recently started contributing to @numpy, @pellets/flask
+- 👻 I recently started contributing to @numpy, @pallets/flask
 
 <!---
 default-303/default-303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
