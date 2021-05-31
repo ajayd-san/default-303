@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @default-303
+- 👋 Hi, I’m Ajay
 - 👀 I’m interested in web frameworks and building cool stuff
 - 🌱 I’m currently learning ml
 - 💞️ I’m looking to collaborate on python and java projects
